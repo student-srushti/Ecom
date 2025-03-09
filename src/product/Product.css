@@ -1,0 +1,27 @@
+.boxContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.box{
+    height: 380px;
+    width: 330px;
+    background-color:black;
+    margin: 10px;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+}
+
+.box img{
+    height: 300px;
+    width: 330px;
+    /* object-fit:cover; */ 
+}
+.box p{
+    font-size: larger;
+    margin-top: 15px;
+}
+

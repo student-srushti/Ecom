@@ -1,0 +1,211 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "price": "99.99",
+      "images": [
+        "/images/w.jpg",
+        "/images/w4.webp",
+        "/images/w2.png",
+        "/images/w3.png"
+      ],
+      "bestseller": true,
+      "discount": "15%",
+      "description": "High-quality wireless Bluetooth headphones with noise cancellation and long-lasting battery life.",
+      "quantity": 1,
+      "addToCart": false
+    },
+    {
+      "id": 2,
+      "name": "Saree",
+      "price": "499.99",
+      "images": [
+        "/images/s3.jpg",
+        "/images/s2.webp",
+        "/images/s4.webp",
+        "/images/s1.jpg"
+      ],
+      "bestseller": true,
+      "discount": "20%",
+      "description": "A smart TV with 4K resolution, HDR support, and voice control integration for seamless entertainment.",
+      "quantity": 1,
+      "addToCart": false
+    },
+    {
+      "id": 3,
+      "name": "Smartphone with 128GB Storage",
+      "price": "299.99",
+      "images": [
+        "/images/m1.webp",
+        "/images/m2.webp",
+        "/images/m3.webp",
+        "/images/m4.webp"
+      ],
+      "bestseller": false,
+      "discount": "10%",
+      "description": "A budget-friendly smartphone featuring a large screen, long battery life, and high-resolution camera.",
+      "quantity": 1,
+      "addToCart": false
+    },
+    {
+      "id": 4,
+      "name": "Dress",
+      "price": "59.99",
+      "images": [
+        "/images/d2.webp",
+        "/images/d3.webp",
+        "/images/d1.webp",
+        "/images/d4.webp"
+      ],
+      "bestseller": false,
+      "discount": "5%",
+      "description": "A rechargeable electric toothbrush designed for a superior brushing experience and plaque removal.",
+      "quantity": 1,
+      "addToCart": false
+    },
+    {
+      "id": 5,
+      "name": "Gaming Laptop",
+      "price": "1499.99",
+      "images": [
+        "/images/l1.jpg",
+        "/images/l2.jpg",
+        "/images/l3.jpg",
+        "/images/l4.jpg"
+      ],
+      "bestseller": true,
+      "discount": "10%",
+      "description": "A high-performance gaming laptop with powerful graphics and processing speed for an immersive experience.",
+      "quantity": "0"
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch with Heart Rate Monitor",
+      "price": "199.99",
+      "images": [
+        "/images/ww1.webp",
+        "/images/ww2.webp",
+        "/images/ww3.webp",
+        "/images/ww4.webp"
+      ],
+      "bestseller": true,
+      "discount": "25%",
+      "description": "A stylish smartwatch with health tracking features, including a heart rate monitor and sleep analysis.",
+      "addToCart": false,
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "name": "Women Top",
+      "price": "39.99",
+      "images": [
+        "/images/t1.webp",
+        "/images/t2.webp",
+        "/images/t3.webp",
+        "/images/t4.webp"
+      ],
+      "bestseller": false,
+      "discount": "0%",
+      "description": "A portable power bank that provides fast charging for your devices, ideal for travel and on-the-go.",
+      "addToCart": false,
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "name": "Men's Shirt",
+      "price": "19.99",
+      "images": [
+        "/images/tt1.webp",
+        "/images/tt2.webp",
+        "/images/tt3.webp",
+        "/images/tt4.webp"
+      ],
+      "bestseller": true,
+      "discount": "30%",
+      "description": "A compact and adjustable tripod stand for your smartphone, perfect for recording videos and photos.",
+      "addToCart": false,
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "name": "Cordless Vacuum Cleaner",
+      "price": "129.99",
+      "images": [
+        "/images/j2.webp",
+        "/images/j1.webp",
+        "/images/j3.webp",
+        "/images/j4.webp"
+      ],
+      "bestseller": false,
+      "discount": "15%",
+      "description": "A lightweight and powerful cordless vacuum cleaner, ideal for quick and efficient cleaning.",
+      "addToCart": false,
+      "quantity": "0"
+    },
+    {
+      "id": 10,
+      "name": "LED TV",
+      "price": "29.99",
+      "images": [
+        "/images/v1.webp",
+        "/images/v2.webp",
+        "/images/v3.webp",
+        "/images/v4.webp"
+      ],
+      "bestseller": true,
+      "discount": "10%",
+      "description": "A modern LED desk lamp with adjustable brightness levels and a built-in USB charging port for your devices.",
+      "addToCart": false,
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "name": "Sandal",
+      "price": "59.99",
+      "images": [
+        "/images/sandal.webp",
+        "/images/sandal1.webp",
+        "/images/sandal2.webp",
+        "/images/sandal2.webp"
+      ],
+      "bestseller": false,
+      "discount": "5%",
+      "description": "Comfortable and trendy sandal for daily wear.",
+      "quantity": 1,
+      "addToCart": true
+    },
+    {
+      "id": 12,
+      "name": "Jacket",
+      "price": "89.99",
+      "images": [
+        "/images/jacket1.webp",
+        "/images/jacket2.webp",
+        "/images/jacket3.webp",
+        "/images/jacket4.webp"
+      ],
+      "bestseller": true,
+      "discount": "15%",
+      "description": "A cozy jacket made with warm, high-quality material.",
+      "quantity": 1,
+      "addToCart": false
+    },
+    {
+      "id": 13,
+      "name": "Sunglasses",
+      "price": "100.99",
+      "images": [
+        "/images/sun1.webp",
+        "/images/sun2.webp",
+        "/images/sun3.webp",
+        "/images/sun4.webp"
+      ],
+      "bestseller": true,
+      "discount": "30%",
+      "description": "Fashionable sunglasses with UV protection.",
+      "quantity": 1,
+      "addToCart": false
+    }
+  ]
+}
