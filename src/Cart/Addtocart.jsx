@@ -39,6 +39,7 @@ function Addtocart() {
       {cart?.map((val) => {
         return (
           <>
+          
             <div className="flex justify-center items-center">
             <div className="text-xl border-2 h-[450px] w-[500px] mb-10 mt-5">
             <img src={val.images[1]} alt="img" className="w-full h-[250px]" />

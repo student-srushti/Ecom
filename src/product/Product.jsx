@@ -7,6 +7,7 @@ import useAxiosApi from "../CustomHook/useAxiosApi";
 
 function Product() {
   let {data} = useContext(CreateStore)
+  // console.log(data,'data')
   let [apiData, setApiData] = useState([])
   let [filterData, setFilterData] = useState([])
   console.log(data,"data inside product");

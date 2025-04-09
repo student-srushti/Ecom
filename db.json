@@ -14,7 +14,7 @@
       "discount": "15%",
       "description": "High-quality wireless Bluetooth headphones with noise cancellation and long-lasting battery life.",
       "quantity": 1,
-      "addToCart": false
+      "addToCart": true
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
       "discount": "20%",
       "description": "A smart TV with 4K resolution, HDR support, and voice control integration for seamless entertainment.",
       "quantity": 1,
-      "addToCart": false
+      "addToCart": true
     },
     {
       "id": 3,
